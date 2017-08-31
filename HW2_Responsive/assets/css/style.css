@@ -265,10 +265,6 @@ p {
   }
 }
 
-/*portolio.html*/
-
-
-/*contact.html*/
 
 @media screen and (max-width: 768px) {
   
@@ -290,12 +286,6 @@ p {
     width: 300px;
   }
 }
-
-/*portfolio.html*/
-
-
-/*contact.html*/
-
 
 
 @media screen and (max-width: 640px) {
@@ -335,9 +325,3 @@ footer {
     width: 100%;
   }
 }
-
-
-/*portfolio.html*/
-
-
-/*contact.html*/
